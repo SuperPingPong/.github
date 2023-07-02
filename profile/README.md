@@ -1,3 +1,3 @@
 # SuperPingPong
 
-<img src="pingpong.gif" />
+<img src="profile/pingpong.gif" />
