@@ -5,7 +5,7 @@
 ### Information ⚡
 
 - 📫 How to reach me: **aurelien@duboc.xyz**
-- 🚩 Status page: [https://status.duboc.xyz/status/pingpong](https://status.duboc.xyz/status/pingpong)
+- 🚩 Status page: [status.duboc.xyz/status/pingpong](https://status.duboc.xyz/status/pingpong)
 
 ### Services 👨‍💻
 
