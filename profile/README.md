@@ -1,4 +1,4 @@
-<img align='right' src="../img/amazing.gif" width="170">
+<img align='right' src="img/amazing.gif" width="170">
 <h1 align="center">Hi 👋, We are SuperPingPong  💻 🐧 🏓</h1>
 <h3 align="center">Discover pingpong related apps</h3>
 
