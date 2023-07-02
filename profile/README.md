@@ -1,3 +1,3 @@
 # SuperPingPong
 
-<img src="img/main.gif" />
+<img src="img/main2.gif" />
