@@ -9,6 +9,6 @@
 
 ### Services 👨‍💻
 
-- 🏓 <a href="https://score.pingsmash.fr">score.pingsmash.fr</a>: Search tool for french ping pong players and view their official FFTT scores and rankings 
-- 🏓 <a href="https://les-tournois-cest-cool.pingsmash.fr/">les-tournois-cest-cool.pingsmash.fr</a>: Search tool for french ping pong tournaments accross France and view their official FFTT details 
 - 🏓 <a href="https://sandbox-tournoi.pingsmash.fr/">sandbox-tournoi.pingsmash.fr</a>: Table tennis tournament registration app
+- 🏓 <a href="https://les-tournois-cest-cool.pingsmash.fr/">les-tournois-cest-cool.pingsmash.fr</a>: Search tool for french ping pong tournaments accross France and view their official FFTT details
+- 🏓 <a href="https://score.pingsmash.fr">score.pingsmash.fr</a>: Search tool for french ping pong players and view their official FFTT scores and rankings 
